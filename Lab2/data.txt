@@ -1,0 +1,6 @@
+austen-emma.txt
+austen-persuasion.txt
+austen-sense.txt
+shakespeare-macbeth.txt
+shakespeare-hamlet.txt
+shakespeare-caesar.txt
